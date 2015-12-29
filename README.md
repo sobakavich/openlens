@@ -1,4 +1,4 @@
-# openlens
+# Open Data at USAID LENS
 USAID LENS - Open Data
 
 ## MSE Survey (2015)
